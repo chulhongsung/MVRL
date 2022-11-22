@@ -1,2 +1,2 @@
 # MVRL
-Molecule Valuation using Distributional Reinforcement Learning
+Molecule Valuation using Reinforcement Learning
